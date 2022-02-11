@@ -386,6 +386,7 @@ body {
   padding: 17px 30px;
 
   display: inline-block;
+  border: none;
   text-decoration: none;
   transition: all 0.3s ease;
 }
